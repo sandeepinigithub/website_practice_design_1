@@ -5,6 +5,6 @@
 
 **Landing Page** 
 
-<img height="480px" width="600px" src="website_practice_design_1.png">
+<img width="600px" src="website_practice_design_1.png">
 
 
